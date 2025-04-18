@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//aci/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"//aci/","tags":["gardenEntry"],"dgHomeLink":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true}
 ---
 
 
