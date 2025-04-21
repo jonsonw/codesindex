@@ -30,4 +30,4 @@ Process Safety Management of Highly Hazardous Chemicals
 
 协同性要求​​：
 与[[EPA]]的《风险管理计划》（RMP, 40 CFR 68）联动，OSHA主控厂内安全，EPA监管厂外环境影响。
-引用[[NFPA]]、[[content/Code-System/ASME]]等行业标准（如[[NFPA 70]]电气安全规范）
+引用[[NFPA]]、[[content/标准组织/ASME]]等行业标准（如[[NFPA 70]]电气安全规范）

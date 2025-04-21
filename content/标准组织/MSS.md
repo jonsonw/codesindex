@@ -1,7 +1,7 @@
 ​Manufacturers Standardization Society of the Valve and Fittings Industry​
 阀门与管件工业制造商标准化协会
 
-MSS是美标体系中阀门与管道连接件领域的权威标准，其规范覆盖从设计、制造到测试的全生命周期。一般使用时需配合和[[content/Code-System/ASME]]、[[content/Code-System/API]] 等标准使用。
+MSS是美标体系中阀门与管道连接件领域的权威标准，其规范覆盖从设计、制造到测试的全生命周期。一般使用时需配合和[[content/标准组织/ASME]]、[[content/标准组织/API]] 等标准使用。
 
 MSS 标准以 ​SP（Standard Practice）​ 编号命名，重点关注 ​材料、设计、制造和测试规范，部分常用标准如下：
 
