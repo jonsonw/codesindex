@@ -1,9 +1,17 @@
+欢迎来到Codes Index：规范索引。
+我们致力于于建立世界范围内的技术规范的索引，以更好的查询和使用技术规范和标准。
+我们的目标是为技术社区提供一个统一的、可搜索的、易于使用的技术规范索引。
+
+当前的主要目录和内容结构如下：
+**标准组织**：主要介绍国际范围内主要的标准制定组织。
+**国际标准**：主要介绍国际范围内的技术标准。
+**国内标准**：主要介绍国内范围内的技术标准。
+**标准比对**：主要探讨国内外标准在具体内容上的一些差异和使用经验和建议。
+**国际认证**：主要介绍国际上主流的认证机构及其认证范围等内容。
+我们欢迎社区的贡献和参与，如果你有任何建议或意见，请联系我们。
+
+在线网站请访问
+http://www.codesindex.com
+
 Powered by Quartz v4
-
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
-
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
-
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
 
