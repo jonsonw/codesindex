@@ -15,6 +15,8 @@ title: Welcome to Codes Index
 
 我们欢迎社区的贡献和参与，如果你有任何建议或意见，请联系我们。  
 
-
+<div class="graph">
+  <div class="graph-container" data-cfg='{"depth":-1,"showTags":true}'></div>
+</div>
 
 

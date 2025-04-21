@@ -6,6 +6,12 @@
     margin: 0;
   }
 
+  & > .graph-container {
+    height: 500px;  // 调整高度
+    width: 100%;
+    margin: 2rem 0;
+  }
+
   & > .graph-outer {
     border-radius: 5px;
     border: 1px solid var(--lightgray);
