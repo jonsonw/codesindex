@@ -19,7 +19,7 @@
 		{"id":"1c4f128a57df98ce","type":"file","file":"content/标准组织/NF.md","x":560,"y":-145,"width":280,"height":65},
 		{"id":"a2847fa6b3e5c2c7","type":"text","text":"ATEX 2014/34/EU","x":-1340,"y":80,"width":190,"height":60},
 		{"id":"ac661d64730a3cd6","type":"file","file":"content/标准组织/EN for Material.md","x":-660,"y":420,"width":280,"height":80},
-		{"id":"8c04b4bb34029dd5","x":-1340,"y":180,"width":190,"height":62,"type":"file","file":"content/Codes-International/CLP.md"}
+		{"id":"8c04b4bb34029dd5","x":-1340,"y":180,"width":190,"height":62,"type":"file","file":"content/国外标准/CLP.md"}
 	],
 	"edges":[
 		{"id":"2b89793c72fad32f","fromNode":"1d2083b672bd4bf1","fromSide":"bottom","toNode":"1b4a4a89f02f6b77","toSide":"top","label":"​98/34/EC指令"},
