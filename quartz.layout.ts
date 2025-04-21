@@ -8,21 +8,25 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      GitHub: "https://github.com/jonsonw/codesindex",
     },
   }),
 }
 
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
+  // 在页面主体内容之前渲染的组件列表
   beforeBody: [
+    // 条件渲染组件，当页面的 slug 不等于 "index" 时渲染面包屑导航
     Component.ConditionalRender({
       component: Component.Breadcrumbs(),
       condition: (page) => page.fileData.slug !== "index",
     }),
+    // 渲染文章标题组件
     Component.ArticleTitle(),
+    // 渲染文章内容元数据组件
     Component.ContentMeta(),
+    // 渲染标签列表组件
     Component.TagList(),
   ],
   left: [
