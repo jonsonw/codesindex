@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Codes Index",
+    pageTitle: "Codes Index-规范索引",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
