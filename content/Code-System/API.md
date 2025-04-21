@@ -42,7 +42,7 @@ API标准名称通常由以下部分组成：
 
 
 # 认证
-[[Certification/API]] 包括
+[[content/Certification/API]] 包括
 
 设备认证​​：如API Spec Q1（质量管理体系）、API 607（阀门防火测试）。
 ​​人员资质认证​​：如API 510（压力容器检验师）、API 653（储罐检验师）。

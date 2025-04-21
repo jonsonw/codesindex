@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"id":"d0728f511ce3f446","type":"group","x":-280,"y":-320,"width":460,"height":681,"label":"美标"},
+		{"id":"c9a8cde2a11fc292","type":"group","x":220,"y":-320,"width":340,"height":681,"label":"欧标"},
+		{"id":"dbb069faa665e880","type":"text","text":"耐火等级","x":-480,"y":-40,"width":160,"height":60},
+		{"id":"cafdcd0f0de5347f","type":"file","file":"content/Codes-International/IBC.md","x":-60,"y":-40,"width":220,"height":73},
+		{"id":"460107049a9bad0c","type":"text","text":"防火分区","x":-480,"y":-260,"width":160,"height":60},
+		{"id":"8f99551305246cbe","type":"text","text":"火灾危险等级","x":-480,"y":-140,"width":160,"height":60},
+		{"id":"98b8b0b8be50f5bc","type":"file","file":"content/Codes-International/NFPA 30.md","x":-260,"y":-146,"width":182,"height":66},
+		{"id":"db0237a24c648384","type":"file","file":"content/Codes-International/OSHA 29 CFR 1910.106.md","x":-57,"y":-146,"width":217,"height":66},
+		{"id":"4673ca37e5e83bc4","type":"text","text":"消防设施","x":-480,"y":260,"width":160,"height":60},
+		{"id":"997c7818594ffe84","type":"file","file":"content/Code-System/NFPA.md","x":-260,"y":260,"width":182,"height":81},
+		{"id":"40e76dbb8b7d0e65","type":"file","file":"content/Codes-International/ASTM E119.md","x":-260,"y":-40,"width":182,"height":73},
+		{"id":"2dfd32d7d31b2f81","type":"file","file":"content/Codes-International/IBC.md","x":-260,"y":-273,"width":182,"height":73},
+		{"id":"8e7f1ec88d77c74f","type":"text","text":"防火间距","x":-480,"y":60,"width":160,"height":60},
+		{"id":"81625d30e4bfe782","type":"file","file":"content/Codes-International/NFPA 30.md","x":-260,"y":57,"width":182,"height":66},
+		{"id":"175cc1359c0829c2","type":"file","file":"content/Codes-International/IBC.md","x":-57,"y":57,"width":217,"height":66},
+		{"id":"d17e9052d264d798","type":"text","text":"安全疏散","x":-480,"y":157,"width":160,"height":60},
+		{"id":"9efbb4729531b59b","type":"file","file":"content/Codes-International/NFPA 101.md","x":-260,"y":152,"width":182,"height":71},
+		{"id":"4dc2f5f8913bb6ca","type":"file","file":"content/Codes-International/OSHA 29 CFR 1910.36.md","x":-57,"y":152,"width":217,"height":71},
+		{"id":"3f730e31629eb8da","type":"file","file":"content/Code-System/PIP.md","x":240,"y":57,"width":300,"height":63},
+		{"id":"0033c59fa258c693","type":"file","file":"content/Codes-International/BS 9999.md","x":338,"y":152,"width":202,"height":189},
+		{"id":"3559420e2a434166","type":"file","file":"content/Codes-International/EN 1991.md","x":335,"y":-273,"width":205,"height":73},
+		{"id":"147809b101b17baa","type":"file","file":"content/Codes-International/EN 1363.md","x":338,"y":-33,"width":202,"height":66},
+		{"id":"fb135a1364ad5e29","type":"file","file":"content/Codes-International/CLP.md","x":339,"y":-146,"width":201,"height":67},
+		{"id":"de1fd066a4477f81","type":"file","file":"content/Codes-GB/GB 50016.md","x":-880,"y":-59,"width":210,"height":112}
+	],
+	"edges":[
+		{"id":"cad472d27dcadc9c","fromNode":"de1fd066a4477f81","fromSide":"right","toNode":"460107049a9bad0c","toSide":"left"},
+		{"id":"b83cd07ac48f0df4","fromNode":"de1fd066a4477f81","fromSide":"right","toNode":"8f99551305246cbe","toSide":"left"},
+		{"id":"a38224a03bd86b7e","fromNode":"de1fd066a4477f81","fromSide":"right","toNode":"8e7f1ec88d77c74f","toSide":"left"},
+		{"id":"b95dd4af23069f5a","fromNode":"de1fd066a4477f81","fromSide":"right","toNode":"d17e9052d264d798","toSide":"left"},
+		{"id":"aff97ac02a8860f2","fromNode":"de1fd066a4477f81","fromSide":"right","toNode":"dbb069faa665e880","toSide":"left"},
+		{"id":"abd9ed030257fb44","fromNode":"de1fd066a4477f81","fromSide":"right","toNode":"4673ca37e5e83bc4","toSide":"left"}
+	]
+}
