@@ -17,9 +17,7 @@ title: Welcome to Codes Index
 
 以下是图片测试：
 
-![[局部截取_20250724_134918.png]]
-
-
+![[2aaae46008ab3186fd79add5e403b9bd.png]]
 <div class="graph">
   <div class="graph-container" data-cfg='{"depth":-1,"showTags":true}'></div>
 </div>
