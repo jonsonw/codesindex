@@ -28,6 +28,11 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ContentMeta(),
     // 渲染标签列表组件
     Component.TagList(),
+    // 首页显示全局图知识图谱
+    Component.ConditionalRender({
+      component: Component.globalGraph(),
+      condition: (page) => page.fileData.slug === "index",
+    }),
   ],
   left: [
     Component.PageTitle(),
