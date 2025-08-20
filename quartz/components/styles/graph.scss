@@ -5,13 +5,11 @@
     font-size: 1rem;
     margin: 0;
   }
-
   & > .graph-container {
     height: 500px;  // 调整高度
     width: 100%;
     margin: 2rem 0;
   }
-
   & > .graph-outer {
     border-radius: 5px;
     border: 1px solid var(--lightgray);
@@ -43,6 +41,7 @@
       }
     }
   }
+
   & > .index-graph-outer {
     border-radius: 5px;
     border: 1px solid var(--lightgray);
@@ -52,6 +51,7 @@
     position: relative;
     overflow: hidden;
   }
+
   & > .global-graph-outer {
     position: fixed;
     z-index: 9999;
