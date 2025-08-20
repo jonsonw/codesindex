@@ -43,7 +43,15 @@
       }
     }
   }
-
+  & > .index-graph-outer {
+    border-radius: 5px;
+    border: 1px solid var(--lightgray);
+    box-sizing: border-box;
+    height: 550px;
+    margin: 0.5em 0;
+    position: relative;
+    overflow: hidden;
+  }
   & > .global-graph-outer {
     position: fixed;
     z-index: 9999;
