@@ -18,6 +18,4 @@ title: Welcome to Codes Index
 
 ![[Modularization Cost- Rev.1.1.xlsx]]
 
-![[LEECC 宣传页 - 英文版.pdf]]
-
 ![[微信图片_20250614160956.jpg]]
