@@ -1,0 +1,181 @@
+{
+	"nodes": [
+		{
+			"id": "2d75aea7d9f9c69a",
+			"type": "group",
+			"x": -980,
+			"y": -219,
+			"width": 260,
+			"height": 479,
+			"label": "中国"
+		},
+		{
+			"id": "c724ffb514202d4e",
+			"type": "group",
+			"x": -440,
+			"y": -220,
+			"width": 260,
+			"height": 460,
+			"label": "美标"
+		},
+		{
+			"id": "7e45436282e59d2e",
+			"type": "group",
+			"x": -700,
+			"y": -220,
+			"width": 240,
+			"height": 460,
+			"label": "欧标"
+		},
+		{
+			"id": "436a8e1042e999ee",
+			"type": "text",
+			"text": "新加坡 MOM 检验",
+			"x": 0,
+			"y": 42,
+			"width": 260,
+			"height": 50
+		},
+		{
+			"id": "5b125cef69e24fa9",
+			"type": "file",
+			"file": "content/国际认证/IBR.md",
+			"x": 0,
+			"y": -226,
+			"width": 260,
+			"height": 90
+		},
+		{
+			"id": "587f869ed9c8af71",
+			"type": "file",
+			"file": "content/国际认证/DOSH.md",
+			"x": 0,
+			"y": -91,
+			"width": 260,
+			"height": 95
+		},
+		{
+			"id": "0c63d587c16ea837",
+			"type": "text",
+			"text": "TSG D0001",
+			"x": -960,
+			"y": -199,
+			"width": 220,
+			"height": 60,
+			"color": "1"
+		},
+		{
+			"id": "dc363f19b10cfa3f",
+			"type": "file",
+			"file": "content/国内标准/GBT 20801.md",
+			"x": -960,
+			"y": -106,
+			"width": 220,
+			"height": 127
+		},
+		{
+			"id": "1efa8786d3065824",
+			"type": "text",
+			"text": "PED 2014/68/EU",
+			"x": -680,
+			"y": -200,
+			"width": 200,
+			"height": 60,
+			"color": "1"
+		},
+		{
+			"id": "fa18bec461a70705",
+			"type": "file",
+			"file": "content/欧标体系/EN 13480.md",
+			"x": -680,
+			"y": -107,
+			"width": 200,
+			"height": 127
+		},
+		{
+			"id": "13c1068100d2a031",
+			"type": "text",
+			"text": "OSHA",
+			"x": -420,
+			"y": -200,
+			"width": 220,
+			"height": 60,
+			"color": "1"
+		},
+		{
+			"id": "0d4f6093d92157d8",
+			"type": "file",
+			"file": "content/美标体系/ASME B31.3.md",
+			"x": -420,
+			"y": -106,
+			"width": 220,
+			"height": 126
+		},
+		{
+			"id": "695b29faaf23514d",
+			"type": "text",
+			"text": "压力管道等级：\nGroup 1 危险流体\nI ~ IV\nGroup 2 一般流体\nI ~ II",
+			"x": -680,
+			"y": 42,
+			"width": 200,
+			"height": 178
+		},
+		{
+			"id": "c6fa8599bd2d4769",
+			"type": "text",
+			"text": "流体类别：\nD\nM\nK\n一般",
+			"x": -420,
+			"y": 42,
+			"width": 220,
+			"height": 178
+		},
+		{
+			"id": "6f3caab75a7940f6",
+			"type": "text",
+			"text": "压力管道等级：\nGC1\nGC2",
+			"x": -960,
+			"y": 42,
+			"width": 220,
+			"height": 89
+		},
+		{
+			"id": "e0100f714db80905",
+			"type": "text",
+			"text": "GB 50316 流体分类\nA1, A2, B, C",
+			"x": -960,
+			"y": 140,
+			"width": 220,
+			"height": 89
+		}
+	],
+	"edges": [
+		{
+			"id": "38c17c33da9bfc84",
+			"fromNode": "0d4f6093d92157d8",
+			"fromSide": "right",
+			"toNode": "5b125cef69e24fa9",
+			"toSide": "left"
+		},
+		{
+			"id": "df93c3043efc3a09",
+			"fromNode": "0d4f6093d92157d8",
+			"fromSide": "right",
+			"toNode": "587f869ed9c8af71",
+			"toSide": "left"
+		},
+		{
+			"id": "d03e2d4cb42a88f8",
+			"fromNode": "0d4f6093d92157d8",
+			"fromSide": "right",
+			"toNode": "436a8e1042e999ee",
+			"toSide": "left"
+		},
+		{
+			"id": "73bd0536628e0d31",
+			"fromNode": "e0100f714db80905",
+			"fromSide": "bottom",
+			"toNode": "c6fa8599bd2d4769",
+			"toSide": "bottom"
+		}
+	]
+}
