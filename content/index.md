@@ -14,8 +14,3 @@ title: Welcome to Codes Index
 **国际认证**：主要介绍国际上主流的认证机构及其认证范围等内容。  
 
 我们欢迎社区的贡献和参与，如果你有任何建议或意见，请联系我们。   
-
-
-![[Modularization Cost- Rev.1.1.xlsx]]
-
-![[微信图片_20250614160956.jpg]]
