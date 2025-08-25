@@ -5,7 +5,7 @@
 		{"id":"874554df7171031c","type":"group","x":-540,"y":-340,"width":240,"height":402,"label":"中国"},
 		{"id":"a140a51850dd4a6e","type":"text","text":"设计资质\n生产资质\n网上登记\n进口压力容器需要形式实验","x":-520,"y":-295,"width":200,"height":95},
 		{"id":"d14d62fa393849d0","type":"text","text":"TSG 21, 23","x":-520,"y":-180,"width":200,"height":60,"color":"1"},
-		{"id":"ef0ec82888f97765","type":"file","file":"content/国内标准/GB 150.md","x":-520,"y":-88,"width":200,"height":135},
+		{"id":"ef0ec82888f97765","type":"file","file":"content/中国标准/GB 150.md","x":-520,"y":-88,"width":200,"height":135},
 		{"id":"f9395e462ec44caa","type":"file","file":"content/国际认证/CE.md","x":-240,"y":-295,"width":420,"height":95},
 		{"id":"33a1110466dd8f61","type":"text","text":"PED 2014/68/EU","x":-240,"y":-180,"width":200,"height":60,"color":"1"},
 		{"id":"f3ad5ac0c64d7fd4","type":"file","file":"content/欧标体系/EN 13445.md","x":-240,"y":-88,"width":200,"height":135},

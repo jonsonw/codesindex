@@ -23,7 +23,7 @@
 		{"id":"3559420e2a434166","type":"file","file":"content/欧标体系/EN 1991.md","x":335,"y":-273,"width":205,"height":73},
 		{"id":"147809b101b17baa","type":"file","file":"content/欧标体系/EN 1363.md","x":338,"y":-33,"width":202,"height":66},
 		{"id":"fb135a1364ad5e29","type":"file","file":"content/欧标体系/CLP.md","x":339,"y":-146,"width":201,"height":67},
-		{"id":"de1fd066a4477f81","type":"file","file":"content/国内标准/GB 50016.md","x":-880,"y":-59,"width":210,"height":112}
+		{"id":"de1fd066a4477f81","type":"file","file":"content/中国标准/GB 50016.md","x":-880,"y":-59,"width":210,"height":112}
 	],
 	"edges":[
 		{"id":"cad472d27dcadc9c","fromNode":"de1fd066a4477f81","fromSide":"right","toNode":"460107049a9bad0c","toSide":"left"},
