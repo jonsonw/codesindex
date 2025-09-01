@@ -30,5 +30,3 @@ Provides design values of snow and ice actions for use in structural design. It 
 [[EN 1991]] vs AS/NZS 1170.1, AS/NZS 1170.2, AS/NZS 1170.3，
 [[EN 1990]] vs AS/NZS 1170.0
 [[EN 1998]] vs AS/NZS 1170.4 地震载荷
-
-![[局部截取_20250821_213435.png]]
